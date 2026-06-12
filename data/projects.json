@@ -30,7 +30,7 @@
     "descFr": "Plateforme IA qui transforme les problèmes africains en projets tech concrets grâce à Claude.",
     "descTr": "Claude kullanarak Afrika sorunlarını ve fikirlerini uygulanabilir teknoloji projelerine dönüştüren AI platformu.",
     "stack": ["TypeScript", "Next.js", "Claude API", "Supabase"],
-    "live": "https://problem-to-projects-africa.vercel.app",
+    "live": "https://problem-to-project-africa.vercel.app",
     "github": "https://github.com/dosteeve2-hash/Problem-to-Projects-Africa",
     "featured": true,
     "color": "#22d98a"
@@ -42,9 +42,9 @@
     "descFr": "Système agent IA local combinant Ollama et Claude pour une automatisation adaptée au contexte africain.",
     "descTr": "Afrika bağlamına uygun otomasyon için Ollama ve Claude'u birleştiren yerel AI ajan sistemi.",
     "stack": ["TypeScript", "AI/LLM", "Ollama", "Claude"],
-    "live": "https://burkinacollect.vercel.app",
+    "live": "https://african-hybrid-agent.vercel.app",
     "github": "https://github.com/dosteeve2-hash/african-hybrid-agent",
-    "featured": false,
+    "featured": true,
     "color": "#f7c060"
   },
   {
