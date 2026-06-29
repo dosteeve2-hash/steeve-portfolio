@@ -93,5 +93,16 @@
     "github": "https://github.com/dosteeve2-hash/burkinacollect",
     "featured": false,
     "color": "#9ba8c4"
+  },
+  {
+    "id": 9,
+    "title": "Forge Afrika",
+    "description": "Digital innovation hub platform connecting African developers, makers and entrepreneurs to build, share and fund tech projects.",
+    "descFr": "Plateforme de hub d'innovation numérique connectant développeurs, makers et entrepreneurs africains pour construire, partager et financer des projets tech.",
+    "descTr": "Afrika'lı geliştiricileri, yapımcıları ve girişimcileri teknoloji projeleri inşa etmek, paylaşmak ve finanse etmek için birleştiren dijital inovasyon merkezi platformu.",
+    "stack": ["Next.js", "TypeScript", "Tailwind", "Supabase"],
+    "github": "https://github.com/dosteeve2-hash/forge-afrika",
+    "featured": false,
+    "color": "#ff6b35"
   }
 ]
